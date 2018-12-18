@@ -1,0 +1,9 @@
+_unit_id	_golden	_unit_state	_trusted_judgments	_last_judgment_at	sentiment	sentiment:confidence	our_id	sentiment_gold	sentiment_gold_reason	text
+724227031	TRUE	golden	236		5	0.7579	10001	"5
+4"	Author is excited about the development of the technology.	Two places I'd invest all my money if I could: 3D printing and Self-driving cars!!!
+724227032	TRUE	golden	231		5	0.8775	10002	"5
+4"	Author is excited that driverless cars will benefit the disabled.	Awesome! Google driverless cars will help the blind travel more often; https://t.co/QWuXR0FrBpv
+724227033	TRUE	golden	233		2	0.6805	10003	"2
+1"	The author is skeptical of the safety and reliability of a driverless car.	If Google maps can't keep up with road construction, how am I supposed to trust a driverless car to get around here?
+724227034	TRUE	golden	240		2	0.882	10004	"2
+1"	The author is skeptical of the project's value.	Autonomous cars seem way overhyped given the technology challenges; pilotless planes seem much more doable and needed.
